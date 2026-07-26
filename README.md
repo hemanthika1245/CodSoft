@@ -4,39 +4,18 @@ This repository contains the Java projects I completed during my CodSoft Java Pr
 
 ## Projects
 
-### 🎮 Task 1 – Number Game
-A console-based game where the user has to guess a randomly generated number within a limited number of attempts.
+### 📚 Task 1 – Student Course Registration System
+A course registration system that allows students to view available courses, register for courses, drop courses, and manage their enrollments.
 
 Features:
-- Random number generation
-- Multiple attempts
-- Score tracking
-- Play again option
+- View available courses
+- Register for a course
+- Drop a course
+- View registered courses
+- Course capacity management
+- Prevents duplicate registrations
 
-
-
-### 📊 Task 2 – Student Grade Calculator
-A Java application that calculates the total marks, average percentage, and grade based on the marks entered by the user.
-
-Features:
-- Accepts marks for multiple subjects
-- Calculates total marks and average percentage
-- Assigns grades
-- Validates user input
-
-
-
-### 🏧 Task 3 – ATM Interface
-A simple ATM simulation that allows users to perform basic banking operations.
-
-Features:
-- Check account balance
-- Deposit money
-- Withdraw money
-- Prevents withdrawal when the balance is insufficient
-
-
-### ❓ Task 4 – Quiz Application
+### ❓ Task 2 – Quiz Application
 A console-based quiz application with multiple-choice questions and a timer.
 
 Features:
@@ -47,16 +26,14 @@ Features:
 
 
 
-### 📚 Task 5 – Student Course Registration System
-A course registration system that allows students to view available courses, register for courses, drop courses, and manage their enrollments.
+### 📊 Task 3– Student Grade Calculator
+A Java application that calculates the total marks, average percentage, and grade based on the marks entered by the user.
 
 Features:
-- View available courses
-- Register for a course
-- Drop a course
-- View registered courses
-- Course capacity management
-- Prevents duplicate registrations
+- Accepts marks for multiple subjects
+- Calculates total marks and average percentage
+- Assigns grades
+- Validates user input
 
 ## Technologies Used
 
@@ -71,11 +48,9 @@ Features:
 ```text
 CODSOFT_TASKS/
 │
-├── Task1_NumberGame/
-├── Task2_StudentGradeCalculator/
-├── Task3_ATMInterface/
-├── Task4_QuizApplication/
-└── Task5_StudentCourseRegistrationSystem/
+├── Task1_StudentCourseRegistrationSystem/
+├── Task2_QuizApplication/
+├── Task3_StudentGradeCalculator/
 ```
 
 ## What I Learned
